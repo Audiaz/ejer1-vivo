@@ -1,3 +1,10 @@
 holaaaa
 augusto diaz
 ejercicio 1 git p2
+//New content
+creando un conflicto
+para ver como lo resolvemos
+y para ver si se da en un principio
+pero bueno
+hasta aqui mis comms
+cambio y fuera
