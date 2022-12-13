@@ -5,7 +5,7 @@ ejercicio 1 git p2
 creando un conflicto
 para ver como lo resolvemos
 y para ver si se da en un principio
-pero bueno
+pero bueno || esto se alargó de forma artificial
 hasta aqui mis comms
 cambio y fuera
 
